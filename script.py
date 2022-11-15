@@ -52,7 +52,7 @@ See <i>/help</i> for commands and more details.</b>
 """
 
 
-    ABOUT_MSG = """⭕️<b>Bot By :PIKACHU</b>
+    ABOUT_MSG = """⭕️<b>Bot By : Mirzapur</b>
 
 ⭕️<b>Creater :</b> @masterr07   
 
