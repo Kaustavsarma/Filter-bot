@@ -1,6 +1,6 @@
 echo "Cloning Repo...."
-git clone https://github.com/jyotirmoydeka/MdiskSearchBotV2.git /MdiskSearchBotV2
-cd /MdiskSearchBotV2
+git clone https://github.com/jyotirmoydeka/Filter-bot.git /Filter-bot
+cd /Filter-bot
 pip3 install -r requirements.txt
 echo "Starting Bot...."
 python3 main.py
